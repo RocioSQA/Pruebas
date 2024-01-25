@@ -1,4 +1,4 @@
-package Rama2;
+package rama2;
 
 public class Estudiante {
         String programa;
